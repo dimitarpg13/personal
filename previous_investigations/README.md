@@ -17,3 +17,5 @@
 [Model of the microcode implementation of the Fully Automated Storage Tier adaptive algorithm for simulation purposes, D. Gueorguiev, 10/5/2015](https://github.com/dimitarpg13/personal/blob/main/previous_investigations/WorkloadPlanner_FullyAutomatedStorageTier_Model.pdf)
 
 [A Model for Capacity Planning and Performance Estimations of Data Storage Array, D. Gueorguiev, 9/24/2013](https://github.com/dimitarpg13/personal/blob/main/previous_investigations/ModelforCapacityPlanningandPerformanceEstimationsofDataStorageArray.pdf)
+
+[Understanding Tensorflow2 Source Code, D. Gueorguiev, 4/27/2020 (unfinished document)](https://github.com/dimitarpg13/personal/blob/main/previous_investigations/Understanding_Tensorflow_2_source_code.pdf)
