@@ -1,5 +1,7 @@
 # Previous Investigations and Presentations
 
+[Epsilon-Constraint Implementation in Online Optimization Problems, D. Gueorguiev, 2/22/2024](https://github.com/dimitarpg13/personal/blob/main/previous_investigations/Epsilon-Constraint_Implementation_in_Online_Optimization_Problems.pdf)
+
 [Can We Improve the Learning Part of the Online Fulfillment Algorithm, D. Gueorguiev, 6/20/2023 (unfinished document)](https://github.com/dimitarpg13/personal/blob/main/previous_investigations/CanWeImproveTheLearningPartOfTheOnlineFulfillmentAlgorithm.pdf)
 
 [Root Cause Analysis for Fulfillment Splitting Decisions, D. Gueorguiev, 8/6/2023 (unfinished document)](https://github.com/dimitarpg13/personal/blob/main/previous_investigations/RootCauseAnalysisforFulfillmentSplittingDecisions.pdf)
