@@ -1,5 +1,7 @@
 # Previous Investigations and Presentations
 
+[Notes on Reinforcement Learning and Deep Reinforcement Learning, D. Gueorguiev, 4/9/2025 (unfinished document)](https://github.com/dimitarpg13/personal/blob/main/previous_investigations/Notes_on_Reinforcement_Learning_and_Deep_Reinforcement_Learning.pdf)
+
 [Epsilon-Constraint Implementation in Online Optimization Problems, D. Gueorguiev, 2/22/2024](https://github.com/dimitarpg13/personal/blob/main/previous_investigations/Epsilon-Constraint_Implementation_in_Online_Optimization_Problems.pdf)
 
 [Can We Improve the Learning Part of the Online Fulfillment Algorithm, D. Gueorguiev, 6/20/2023 (unfinished document)](https://github.com/dimitarpg13/personal/blob/main/previous_investigations/CanWeImproveTheLearningPartOfTheOnlineFulfillmentAlgorithm.pdf)
