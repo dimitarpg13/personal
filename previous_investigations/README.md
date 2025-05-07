@@ -12,9 +12,9 @@
 
 [Note on Q Functions in Reinforcement Learning, D. Gueorguiev, 11/26/2023](https://github.com/dimitarpg13/personal/blob/main/previous_investigations/Note_on_Q_functions_in_Reinforcement_Learning.pdf)
 
-[Preliminaries for Proximal Policy Optimization Algorithms, D. Gueorguiev, 12/13/2023 (unfinished document)](https://github.com/dimitarpg13/personal/blob/main/previous_investigations/Preliminaries_for_Proximal_Policy_Optimization_Algorithms.pdf)
-
 [Examples using Policy and Value Functions, D. Gueorguiev, 1/21/2024 (unfinished document)](https://github.com/dimitarpg13/personal/blob/main/previous_investigations/Examples_using_Policy_and_Value_Functions.pdf)
+
+[Preliminaries for Proximal Policy Optimization Algorithms, D. Gueorguiev, 12/13/2023 (unfinished document)](https://github.com/dimitarpg13/personal/blob/main/previous_investigations/Preliminaries_for_Proximal_Policy_Optimization_Algorithms.pdf)
 
 [Qlik Associative Big Data Index, D. Gueorguiev, 12/10/2018 (presentation given at MathWorks)](https://github.com/dimitarpg13/personal/blob/main/previous_investigations/PresentationDGueorguiev2018.pdf)
 
