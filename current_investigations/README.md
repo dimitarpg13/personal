@@ -7,6 +7,6 @@
 
 related github repos: 
 
-    https://github.com/dimitarpg13/semantic_simulation
+  * https://github.com/dimitarpg13/semantic_simulation
 
-    https://github.com/dimitarpg13/semsimula-paper
+  * https://github.com/dimitarpg13/semsimula-paper
