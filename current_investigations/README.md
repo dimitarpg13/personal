@@ -5,6 +5,7 @@
 [Resources on Agentic Workflows](https://github.com/dimitarpg13/agentic_architectures_and_design_patterns/blob/main/Resources.md)
 
 [Reinforcement Learning and Optimization methods in Agentic Workflows](https://github.com/dimitarpg13/control_and_optimization_of_agentic_workflows) 
+
 [Causal Inference in Agentic Workflows](https://github.com/dimitarpg13/causal_inference_in_agentic_workflows)
 
 
