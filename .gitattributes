@@ -1,1 +1,2 @@
 current_investigations/semsimula_paper.pdf filter=lfs diff=lfs merge=lfs -text
+current_investigations/attention_and_intrinsic_geometry_paper.pdf filter=lfs diff=lfs merge=lfs -text
