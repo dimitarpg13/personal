@@ -16,3 +16,12 @@
 GitHub: https://github.com/dimitarpg13/semsimula-paper 
 
 HuggingFace: https://huggingface.co/collections/dimitarpg13/semantic-simulation-gen-3-cfc-baoab-live-gradients
+
+SemSimula Causal Auditing Framework (SCAF): https://github.com/dimitarpg13/semsimula-scaf
+
+SCAF companion note: https://github.com/dimitarpg13/semsimula-scaf/blob/main/docs/Framework_for_Causal_Analysis_SemSimula_Models.md
+
+Geometric Distance Metrics for SCAF: https://github.com/dimitarpg13/semsimula-scaf/blob/main/docs/Geometric_Distance_Metrics_for_SCAF.md
+
+SemSimula Diagnostic Utilities: https://github.com/dimitarpg13/semsimula-diag
+
