@@ -11,7 +11,7 @@
 
 ## Semantic Simulation
 
-[Gueorguiev, D. (2026). Semantic Simulation: A Prescriptive Lagrangian Framework for Efficient Inference. Preprint: Zenodo & SSRN](https://doi.org/10.5281/zenodo.19712427).
+[Gueorguiev, D. (2026). Semantic Simulation: A Prescriptive Lagrangian Framework for Semantic Inference. Preprint: Zenodo & SSRN](https://doi.org/10.5281/zenodo.19712427).
 
 GitHub: https://github.com/dimitarpg13/semsimula-paper 
 
